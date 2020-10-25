@@ -1,6 +1,6 @@
 # Flask wsgi bootstrap/demo
 
-This demo shows the use of gunicorn with flask.
+This demo shows the use of gunicorn with flask. Original credit goes to [Max Meinhold](https://github.com/mxmeinhold/flask-gunicorn-demo).
 It includes a basic Dockerfile, a linting demonstration using Pylint, and a Travis CI configuration for running linting.
 
 This is not an in depth guide in how these tools work, but a basic starting point and reference.
